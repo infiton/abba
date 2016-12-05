@@ -14,4 +14,7 @@ Gem::Specification.new do |s|
   
   s.add_development_dependency 'minitest', '~>5.8'
   s.add_development_dependency 'rake', '~>10.0'
+
+  s.homepage    = 'http://github.com/infiton/abba'
+  s.license     = 'MIT'
 end
